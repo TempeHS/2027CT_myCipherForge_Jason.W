@@ -5,5 +5,5 @@ python app.py
 
 # Run tests
 python tests.py
-Author[Your Name] — Year 9, 2026License
+Author Jason Wang — Year 9, 2026License
 MIT License — see LICENSE for details.

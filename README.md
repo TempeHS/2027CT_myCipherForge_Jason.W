@@ -1,27 +1,7 @@
-# 🔐 CipherForge
+# 🔐 CipherForgeA custom 5-layer encryption algorithm built as part of Year 9 Digital Technologies.AboutThis project implements a multi-layered encryption system that I designed from scratch. Each layer adds a different type of protection, similar to how real encryption algorithms like AES work.Algorithm PhasesPhaseNameStatus1Substitution🔲 Not started2Transposition🔲 Not started3Key-Dependent🔲 Not started4Noise Injection🔲 Not started5Wild Card🔲 Not startedRunning the Project# Run the Flask app
+python app.py
 
-**A custom 5-layer encryption algorithm** built as part of Year 9 Digital Technologies.
-
-## About
-
-This project implements a multi-layered encryption system that I designed from scratch. Each layer adds a different type of protection, similar to how real encryption algorithms like AES work.
-
-## Algorithm Phases
-
-| Phase | Name | Status |
-|-------|------|--------|
-| 1 | Substitution | 🔲 Not started |
-| 2 | Transposition | 🔲 Not started |
-| 3 | Key-Dependent | 🔲 Not started |
-| 4 | Noise Injection | 🔲 Not started |
-| 5 | Wild Card | 🔲 Not started |
-
-## Running the Project
-
-## Author
-
-**Jason Wang** — Year 9, 2026
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
+# Run tests
+python tests.py
+Author Jason Wang — Year 9, 2026License
+MIT License — see LICENSE for details.
